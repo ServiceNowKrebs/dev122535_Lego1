@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="set_name" label="Set Name" language="en" table="x_859308_rebrick_legosetinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>set_name</element>
+            <help/>
+            <hint/>
+            <label>Set Name</label>
+            <language>en</language>
+            <name>x_859308_rebrick_legosetinfo</name>
+            <plural>Set Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-02 19:22:03</sys_created_on>
+            <sys_id>a8e1fc4087f91910ddfd4046cebb350b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Set Name</sys_name>
+            <sys_package display_value="RebrickableLookup" source="x_859308_rebrick">67b8ecc087b91910ddfd4046cebb35de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RebrickableLookup">67b8ecc087b91910ddfd4046cebb35de</sys_scope>
+            <sys_update_name>sys_documentation_x_859308_rebrick_legosetinfo_set_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-02 19:22:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

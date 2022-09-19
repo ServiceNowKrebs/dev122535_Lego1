@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f471c4e5874e9110ddfd4046cebb35c0" sys_domain="global" table="x_859308_rebrick_legosetinfo" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-19 17:57:02</sys_created_on>
+            <sys_id>8171c4e5874e9110ddfd4046cebb35c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_859308_rebrick_legosetinfo" sys_domain="global" view="Default view">f471c4e5874e9110ddfd4046cebb35c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-19 17:57:02</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>max_year</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-19 17:57:02</sys_created_on>
+            <sys_id>8971c4e5874e9110ddfd4046cebb35c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_859308_rebrick_legosetinfo" sys_domain="global" view="Default view">f471c4e5874e9110ddfd4046cebb35c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-19 17:57:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>min_year</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-19 17:57:02</sys_created_on>
+            <sys_id>0d71c4e5874e9110ddfd4046cebb35c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_859308_rebrick_legosetinfo" sys_domain="global" view="Default view">f471c4e5874e9110ddfd4046cebb35c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-19 17:57:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-19 17:57:02</sys_created_on>
+            <sys_id>8d71c4e5874e9110ddfd4046cebb35c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_859308_rebrick_legosetinfo" sys_domain="global" view="Default view">f471c4e5874e9110ddfd4046cebb35c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-19 17:57:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>remote_set_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-19 17:57:02</sys_created_on>
+            <sys_id>0171c4e5874e9110ddfd4046cebb35c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_859308_rebrick_legosetinfo" sys_domain="global" view="Default view">f471c4e5874e9110ddfd4046cebb35c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-19 17:57:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>setnumber</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-19 17:57:02</sys_created_on>
+            <sys_id>8171c4e5874e9110ddfd4046cebb35c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_859308_rebrick_legosetinfo" sys_domain="global" view="Default view">f471c4e5874e9110ddfd4046cebb35c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-19 17:57:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-19 17:57:02</sys_created_on>
+            <sys_id>0571c4e5874e9110ddfd4046cebb35c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_859308_rebrick_legosetinfo" sys_domain="global" view="Default view">f471c4e5874e9110ddfd4046cebb35c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-19 17:57:02</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>set_name</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-19 17:57:02</sys_created_on>
+            <sys_id>8571c4e5874e9110ddfd4046cebb35c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_859308_rebrick_legosetinfo" sys_domain="global" view="Default view">f471c4e5874e9110ddfd4046cebb35c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-19 17:57:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>theme_id</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-19 17:57:02</sys_created_on>
+            <sys_id>0971c4e5874e9110ddfd4046cebb35c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_859308_rebrick_legosetinfo" sys_domain="global" view="Default view">f471c4e5874e9110ddfd4046cebb35c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-19 17:57:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_859308_rebrick_legosetinfo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-19 17:57:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f471c4e5874e9110ddfd4046cebb35c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_859308_rebrick_legosetinfo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="RebrickableLookup" source="x_859308_rebrick">67b8ecc087b91910ddfd4046cebb35de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RebrickableLookup">67b8ecc087b91910ddfd4046cebb35de</sys_scope>
+            <sys_update_name>sys_ui_section_f471c4e5874e9110ddfd4046cebb35c0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-19 17:57:02</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
