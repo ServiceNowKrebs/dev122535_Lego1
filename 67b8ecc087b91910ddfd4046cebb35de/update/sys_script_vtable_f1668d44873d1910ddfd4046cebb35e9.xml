@@ -28,13 +28,13 @@
 	var minYear = v_query.getParameter("min_year"); //.toString();        
 	var maxYear = v_query.getParameter("max_year"); //.toString();
 	if (theme == null || minYear == null || maxYear == null) {
-		gs.addInfoMessage('neuer Aufruf');
+		//gs.addInfoMessage('neuer Aufruf');
 		theme = gs.getSession().getClientData("currentTheme");
 		minYear = gs.getSession().getClientData("currentMinYear");
 		maxYear = gs.getSession().getClientData("currentMaxYear");
 	}
 	//getLegoSetsArrayRemote(v_table, v_query);
-	//getLEGOSetsArrayRemoteLocal(v_table,v_query);     //,theme,minYear,maxYear);
+	//getLEGOSetsArrayRemoteLocal(v_table,v_query);   
 	try {
 		var r = new sn_ws.RESTMessageV2();
 		r.setEndpoint('https://rebrickable.com/api/v3/lego/sets/');
@@ -50,6 +50,7 @@
 			r.setQueryParameter('max_year', maxYear); 
 		}
 		r.setQueryParameter('ORDERBY','set_num');  
+		r.setLogLevel('all');
 		var response = r.execute();
 		var responseBody = response.getBody();
 		var httpStatus = response.getStatusCode();
@@ -73,7 +74,7 @@
 			row.set_img_url = resultArr[i].set_img_url;
 			row.min_year = minYear;
 			row.max_year = maxYear;
-			// add the row to the remote table          //gs.addInfoMessage(row.name); gs.addInfoMessage(row.set_num);
+			// add the row to the remote table   
 			v_table.addRow(row);
 		}
 		gs.getSession().putClientData("currentTheme", theme);
@@ -314,14 +315,14 @@ grX.query();
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f1668d44873d1910ddfd4046cebb35e9</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>DefinitionLegoSetInfo</sys_name>
         <sys_package display_value="RebrickableLookup" source="x_859308_rebrick">67b8ecc087b91910ddfd4046cebb35de</sys_package>
         <sys_policy/>
         <sys_scope display_value="RebrickableLookup">67b8ecc087b91910ddfd4046cebb35de</sys_scope>
         <sys_update_name>sys_script_vtable_f1668d44873d1910ddfd4046cebb35e9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-20 15:39:59</sys_updated_on>
+        <sys_updated_on>2022-09-21 10:21:13</sys_updated_on>
         <table>x_859308_rebrick_st</table>
     </sys_script_vtable>
 </record_update>
