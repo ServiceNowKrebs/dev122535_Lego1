@@ -2,7 +2,7 @@
     <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
         <name>ORDERBY</name>
         <order>400</order>
-        <rest_message_function display_value="">67c0050c87f91910ddfd4046cebb351c</rest_message_function>
+        <rest_message_function display_value="GetLegoSets">67c0050c87f91910ddfd4046cebb351c</rest_message_function>
         <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-02 20:31:02</sys_created_on>

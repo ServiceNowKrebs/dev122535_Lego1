@@ -2,7 +2,7 @@
     <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
         <name>page</name>
         <order>200</order>
-        <rest_message_function display_value="">149b300887f91910ddfd4046cebb3530</rest_message_function>
+        <rest_message_function display_value="GETColors">149b300887f91910ddfd4046cebb3530</rest_message_function>
         <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-02 20:24:50</sys_created_on>

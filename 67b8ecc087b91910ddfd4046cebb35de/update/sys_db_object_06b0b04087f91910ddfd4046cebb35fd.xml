@@ -9,7 +9,6 @@
         <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>true</delete_access>
-        <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Legoset Info Remote </label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -19,9 +18,7 @@
         <read_access>true</read_access>
         <scriptable_table>true</scriptable_table>
         <super_class/>
-        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-02 19:18:18</sys_created_on>
         <sys_id>06b0b04087f91910ddfd4046cebb35fd</sys_id>
